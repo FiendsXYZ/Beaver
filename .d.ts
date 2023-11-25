@@ -1,3 +1,4 @@
+// TS defs are untested
 export interface LogLevels {
   [level: string]: {
     color: string;
