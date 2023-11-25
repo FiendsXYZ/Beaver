@@ -92,4 +92,4 @@ function Beaver(componentName, userConfig = {}) {
   return logger;
 }
 
-export default Beaver;
+module.exports = Beaver;

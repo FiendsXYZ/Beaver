@@ -22,7 +22,7 @@ To use Beaver logging in your project, first import and configure:
 
 ### Importing and Configuring Beaver
 ```javascript
-import Beaver from 'beaver-js-logger';
+const Beaver = require('beaver-js-logger');
 
 // Configuration settings for Beaver
 const loggerConfig = {

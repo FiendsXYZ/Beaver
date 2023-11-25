@@ -1,6 +1,6 @@
 {
   "name": "beaver-js-logger",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Basic JavaScript logging middleware for custom and conditional logs. Offers customizable log levels, remote logging and asynchronous support.",
   "main": "Beaver.js",
   "scripts": {
