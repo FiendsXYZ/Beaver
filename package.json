@@ -1,5 +1,5 @@
 {
-  "name": "beaver",
+  "name": "beaver-js-logger",
   "version": "1.0.0",
   "description": "Basic JavaScript logging middleware for custom and conditional logs. Offers customizable log levels, remote logging and asynchronous support.",
   "main": "Beaver.js",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/FiendsXYZ/Beaver/issues"
   },
-  "homepage": "https://github.com/FiendsXYZ/Beaver#readme"
+  "homepage": "https://github.com/FiendsXYZ/Beaver#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
