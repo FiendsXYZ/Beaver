@@ -1,0 +1,25 @@
+{
+  "name": "beaver",
+  "version": "1.0.0",
+  "description": "Basic JavaScript logging middleware for custom and conditional logs. Offers customizable log levels, remote logging and asynchronous support.",
+  "main": "Beaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiendsXYZ/Beaver.git"
+  },
+  "keywords": [
+    "javascript",
+    "logging",
+    "console",
+    "logs"
+  ],
+  "author": "FiendsXYZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FiendsXYZ/Beaver/issues"
+  },
+  "homepage": "https://github.com/FiendsXYZ/Beaver#readme"
+}
