@@ -1,5 +1,8 @@
 # Beaver
 
+![npm downloads](https://img.shields.io/npm/dt/beaver-js-logger.svg)
+
+
 ## Introduction
 Basic JavaScript logging middleware for custom and conditional logs. Offers customizable log levels, remote logging and asynchronous support.
 
